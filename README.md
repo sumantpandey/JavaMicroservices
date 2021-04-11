@@ -1,1 +1,1 @@
-# JavaMicroservices
+# StockTickersMicroservice
